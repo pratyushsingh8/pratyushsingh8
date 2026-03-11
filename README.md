@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=70&duration=5000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+I'm+Pratyush+Singh;AI%2FML+Engineer;Python+Developer;Backend+Developer)]()
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=60&duration=4000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+I'm+Pratyush+Singh;AI%2FML+Engineer;Python+Developer;Backend+Developer)]()
 
 <!--# Hi 👋, I'm Pratyush Singh
 
