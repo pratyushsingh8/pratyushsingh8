@@ -1,4 +1,4 @@
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+I'm+Pratyush+Singh;Python+Developer;AI%2FML+Enthusiast;Backend+Developer;Computer+Science+Student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=70&duration=5000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+I'm+Pratyush+Singh;AI%2FML+Engineer;Python+Developer;Backend+Developer)]()
 
 <!--# Hi 👋, I'm Pratyush Singh
 
@@ -61,7 +61,6 @@ I love turning complex AI ideas into practical applications that can solve real-
 
 ---
 [![](https://visitcount.itsvg.in/api?id=pratyushsingh8&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ![Profile Views](https://komarev.com/ghpvc/?username=pratyushsingh8&color=blue)
 
